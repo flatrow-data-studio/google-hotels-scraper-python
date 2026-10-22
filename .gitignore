@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Outputs
+*.csv
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
